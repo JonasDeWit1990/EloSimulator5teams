@@ -1,0 +1,9 @@
+c:\users\de wit jonas\documents\visual studio 2012\Projects\EloSimulator5teams\EloSimulator5teams\bin\Debug\EloSimulator5teams.exe.config
+c:\users\de wit jonas\documents\visual studio 2012\Projects\EloSimulator5teams\EloSimulator5teams\bin\Debug\EloSimulator5teams.exe
+c:\users\de wit jonas\documents\visual studio 2012\Projects\EloSimulator5teams\EloSimulator5teams\bin\Debug\EloSimulator5teams.pdb
+c:\users\de wit jonas\documents\visual studio 2012\Projects\EloSimulator5teams\EloSimulator5teams\obj\Debug\EloSimulator5teams.csprojResolveAssemblyReference.cache
+c:\users\de wit jonas\documents\visual studio 2012\Projects\EloSimulator5teams\EloSimulator5teams\obj\Debug\EloSimulator5teams.Form1.resources
+c:\users\de wit jonas\documents\visual studio 2012\Projects\EloSimulator5teams\EloSimulator5teams\obj\Debug\EloSimulator5teams.Properties.Resources.resources
+c:\users\de wit jonas\documents\visual studio 2012\Projects\EloSimulator5teams\EloSimulator5teams\obj\Debug\EloSimulator5teams.csproj.GenerateResource.Cache
+c:\users\de wit jonas\documents\visual studio 2012\Projects\EloSimulator5teams\EloSimulator5teams\obj\Debug\EloSimulator5teams.exe
+c:\users\de wit jonas\documents\visual studio 2012\Projects\EloSimulator5teams\EloSimulator5teams\obj\Debug\EloSimulator5teams.pdb
